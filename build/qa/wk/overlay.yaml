@@ -1,0 +1,1 @@
+{ 'version': 0, 'roots': [ { 'name': '/Library/Developer/CommandLineTools/usr/include/swift/module.modulemap', 'type': 'file', 'external-contents': '/Users/mysense/Desktop/Website Works/Joseph Siew LP/Pactum/build/qa/wk/empty.modulemap' } ] }

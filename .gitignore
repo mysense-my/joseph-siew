@@ -1,0 +1,7 @@
+.DS_Store
+__pycache__/
+# local only: template teardown, source images (template stock, LinkedIn, Magnific PNGs), QA screenshots and the compiled WebKit binary
+_teardown/
+build/img-src/
+build/qa/shots/
+build/qa/wk/wk
